@@ -1,0 +1,17 @@
+{
+    "name": "navisot/laravel-user-service",
+    "require": {
+        "laravel/framework": "^12.26"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\Services\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikos Avram",
+            "email": "nikosavr89@gmail.com"
+        }
+    ]
+}
